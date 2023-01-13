@@ -2,7 +2,7 @@
 iOS - Lead Software Engineer
 
 <p>
-  <a href="https://www.linkedin.com/in/keval-vadoliya-513058116" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/keval-vadoliya" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin"/></a>
   <a href="https://stackoverflow.com/users/5828961/keval-vadoliya" target="_blank"><img alt="StackOverFlow" src="https://img.shields.io/badge/stackoverflow-black.svg?&style=for-the-badge&logo=stackoverflow"/></a>
   <a href="https://blog.kiprosh.com/author/keval-vadoliya/" target="_blank"><img alt="Blogs" src="https://img.shields.io/badge/Blogs-black.svg?&style=for-the-badge&logo=ghost"/></a>
 </p>
